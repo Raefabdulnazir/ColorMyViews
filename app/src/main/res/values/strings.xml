@@ -8,5 +8,7 @@
     <string name="box_yellow">YELLOW</string>
     <string name="box_red">RED</string>
     <string name="box_green">GREEN</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="tap_the_box">Tap the screen and the boxes to change its color</string>
 
 </resources>
